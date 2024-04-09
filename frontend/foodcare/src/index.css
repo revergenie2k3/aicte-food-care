@@ -1,0 +1,130 @@
+body{
+ background-color:#F5FFFA;
+ font-family: Inter;
+}
+
+img.center {
+  width: 100px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 30px;
+}
+
+img.side{
+  width: 50px;
+}
+
+
+
+.btn{
+  text-align: center;
+  float: right;
+
+  margin-top: 10px;
+  background-color: #FFAC1C;
+  width: 100px;
+  height: 25px;
+  border-radius: 15px;
+}
+
+ h1{
+  text-align: center;
+}
+
+.abc{
+  text-align: center;
+}
+
+.text1{
+  font-weight: bolder;
+  margin-right: 130px;
+}
+
+.text2{
+  font-weight: bolder;
+  margin-right: 107px;
+}
+
+.text3{
+  font-weight: bolder;
+  margin-right: 140px;
+}
+
+#fname{
+  margin-top: 5px;
+  margin-bottom: 10px;
+  width: 200px;
+}
+
+#email{
+  margin-top: 5px;
+  margin-bottom: 10px;
+  width: 200px;
+}
+
+#pass{
+  margin-top: 5px;
+  width: 200px;
+} 
+
+#register{
+  margin-top: 25px;
+  background-color: #FFAC1C;
+  width: 210px;
+  height: 25px;
+  border-radius: 10px;
+}
+
+Link{
+  text-decoration: none;
+}
+
+p{
+  text-align: center;
+}
+
+p.abc{
+  text-align:left;
+  height: 100px;
+  padding-top: 20px;
+}
+
+.home{
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.track{
+  display: flex;
+  flex-direction: row;
+}
+
+.img{
+  display: inline-block;
+  width: 80px;
+  border-radius: 50px;
+  margin-left: 350px;
+  margin-right: 100px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+#a{
+  margin-top: 10px;
+}
+
+img.sidea{
+  width: 50px;
+  float: left;
+  position: relative;
+  padding-right: 10px;
+
+}
+
+h1#z{
+  max-width: 1200px;
+  position: relative;
+  left: 250px;
+}

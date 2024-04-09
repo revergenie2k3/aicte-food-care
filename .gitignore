@@ -1,0 +1,5 @@
+/backend/node_modules
+/backend/package-lock.json
+
+frontend/foodcare/node_modules
+frontend/foodcare/package-lock.json
