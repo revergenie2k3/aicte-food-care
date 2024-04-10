@@ -199,7 +199,7 @@ useEffect(()=>{
       </Drawer>
       </div>
 
-      <div className='table' style={{position:"relative",bottom:"50px"}}>
+      <div className='table' >
         <TableContainer component={Paper}>
           <Table style={{backgroundColor:"#fbf8e6",width:"1600px"}} sx={{ minWidth: 1500 }} aria-label="simple table">
             <TableHead>
